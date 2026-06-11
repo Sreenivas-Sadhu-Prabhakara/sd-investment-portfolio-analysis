@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-investment-portfolio-analysis
+description: "BIAN Service Domain: Investment Portfolio Analysis (Analyze pattern, Operations and Execution)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - analyze
+annotations:
+  bian/business-area: "Operations and Execution"
+  bian/business-domain: "Securities"
+  bian/asset-type: "Portfolio Analysis"
+  bian/control-record: "Portfolio Analysis Analysis"
